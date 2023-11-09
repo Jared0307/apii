@@ -1,7 +1,0 @@
-{
-    "primerPaso":"const categoriaRoutes = require('./routes/categoriaRoutes')",
-    "SegundoPaso":{
-        "codigo":"app.use('/api/categoria', categoriaRoutes)",
-        "descripcion":"Se usa la ruta categoriaRoutes para el endpoint /api/categoria"
-    }
-}
